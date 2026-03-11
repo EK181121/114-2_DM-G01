@@ -8,7 +8,7 @@
 | 組別 | 第 一 組 |
 | 專題名稱 | （請填入你們的專題名稱） |
 | 組長 | （郭柏辰 / (https://github.com/EK181121)） |
-| 組員 | （吳旭崴 / GitHub 帳號） |
+| 組員 | （吳旭崴 / (https://github.com/c113181123)） |
 | 組員 | （李柏志 / (https://github.com/liangsfgbdfbcfb)） |
 | 組員 | （姓名 / GitHub 帳號） |
 
